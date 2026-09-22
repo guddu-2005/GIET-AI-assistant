@@ -1,0 +1,8 @@
+{
+  "name": "GIET Bhubaneswar | Gandhi Institute for Education and Technology",
+  "description": "Gandhi Institute for Education and Technology (GIET), Baniatangi, Bhubaneswar, Odisha. B.Tech, M.Tech, MBA, MCA admissions, academics, campus life & placements.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
