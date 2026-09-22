@@ -4,6 +4,7 @@ export const GIET_INFO = {
   fullName: "Gandhi Institute for Education and Technology",
   shortName: "GIET Bhubaneswar",
   established: "2009",
+  campusImageUrl: "https://giet.edu.in/wp-content/uploads/2022/11/campus.jpg",
   location: "Baniatangi, Bajapur, Bhubaneswar, Khordha, Odisha – 752060",
   management: "Satya Panda Basanta Manjari Foundation Trust / SPBM Foundation",
   institutionType: "Private, self-financed, non-minority, co-educational institution",
@@ -606,7 +607,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: "gal-1",
     title: "GIET Academic Main Block",
     category: "Campus",
-    imageUrl: "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1000",
+    imageUrl: "https://giet.edu.in/wp-content/uploads/2022/11/campus.jpg",
     caption: "Spacious administrative & academic campus building at Baniatangi, Bhubaneswar."
   },
   {

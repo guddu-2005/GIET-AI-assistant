@@ -118,7 +118,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onNavigate, onOpenAI }
             <div className="relative mx-auto max-w-md lg:max-w-none rounded-2xl overflow-hidden shadow-2xl border border-slate-700/60 bg-slate-900">
               
               <img
-                src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=1200"
+                src="https://giet.edu.in/wp-content/uploads/2022/11/campus.jpg"
                 alt="GIET Campus Bhubaneswar"
                 className="w-full h-[360px] sm:h-[420px] object-cover filter brightness-95 hover:scale-105 transition-transform duration-700"
               />
